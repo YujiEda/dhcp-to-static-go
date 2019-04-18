@@ -1,1 +1,2 @@
-# dhcp-to-static-go
+# api-cli-go-example
+An example for API Client written in Go.
